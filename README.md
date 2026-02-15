@@ -17,7 +17,7 @@ I'm a Passionate Software Engineer, and a Computer Science Student at the Lahore
 
 ||My Tech Stack|
 |:-:|:-:|
-|Programming Language | ![Python,C++](https://go-skill-icons.vercel.app/api/icons?i=python,cpp,xml,java,r)|
+|Programming Language | ![Python,C++](https://go-skill-icons.vercel.app/api/icons?i=python,cpp,java,r)|
 |AI | ![ChatGPT,Github Copilot](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,githubcopilot)|
 |Docs | ![Notion,Markdown](https://go-skill-icons.vercel.app/api/icons?i=notion,md)|
 |Tools | ![Git,GitHub](https://go-skill-icons.vercel.app/api/icons?i=git,github)|
